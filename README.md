@@ -29,7 +29,7 @@ It resolves the problem related to shadow and error created by time-varying land
 - [Automatic Mixed Precision](https://pytorch.org/docs/stable/notes/amp_examples.html) allows [GPU acceleration](https://developer.nvidia.com/automatic-mixed-precision), increasing the limit of available batch size for training.
 
 ### Team Members
-[Sungkuk Jung](https://github.com/ssoup0224) <br />
 [Yeonsang Shin](https://github.com/yxxshin) <br /> 
 [Terry Kim](https://github.com/winterrykim) <br /> 
+[Sungkuk Jung](https://github.com/ssoup0224) <br />
 [GyuSeong Lee](https://github.com/codehuv)
